@@ -9,7 +9,7 @@ body{
 .images{
     margin-left: 400px;
     margin-top: 20px;
-    display: block;
+    display: inline;
 }
 .my_form{
     margin-left: 400px;
