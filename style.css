@@ -1,0 +1,33 @@
+body{
+    background-color: darkgray;
+}
+#greeting{
+    color: chartreuse;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+#welcome-image{
+    margin-left: 400px;
+}
+.my_form{
+    margin-left: 400px;
+}
+.blog-title{
+    color: rgb(132, 146, 0);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+}
+.blog{
+    border: 5px solid goldenrod;
+    border-radius: 10px;
+    margin: 20px 50px;
+    padding: 10px;
+}
+.blog-content{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.author-name span{
+    font-weight: 600;
+}
