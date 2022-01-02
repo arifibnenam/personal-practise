@@ -6,8 +6,10 @@ body{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
-#welcome-image{
+.images{
     margin-left: 400px;
+    margin-top: 20px;
+    display: block;
 }
 .my_form{
     margin-left: 400px;
